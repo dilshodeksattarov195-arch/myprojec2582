@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendetch",
+        "uuid": 6054790,
+        "checksum": "6x0jsm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
